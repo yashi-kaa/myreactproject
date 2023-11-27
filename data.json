@@ -1,0 +1,24 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "name": "Shopping",
+      "cost": 50
+    },
+    {
+      "id": "2",
+      "name": "Holiday",
+      "cost": 300
+    },
+    {
+      "id": "3",
+      "name": "Transportation",
+      "cost": 70
+    },
+    {
+      "id": "a5b6919c-48be-47cd-ad11-cc3c07d8ebe1",
+      "name": "Boutique",
+      "cost": 890
+    }
+  ]
+}

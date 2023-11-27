@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "firstName": "Srivarshini",
+      "lastName": "S",
+      "email": "sri@gmail.com",
+      "password": "Srivarshini",
+      "confirmPassword": "Srivarshini",
+      "id": 1
+    },
+    {
+      "firstName": "saru",
+      "lastName": "m",
+      "email": "saru@gmail.com",
+      "password": "saru",
+      "confirmPassword": "saru",
+      "id": 2
+    },
+    {
+      "firstName": "yash",
+      "lastName": "y",
+      "email": "yash@gmail.com",
+      "password": "yash",
+      "confirmPassword": "yash",
+      "id": 3
+    },
+    {
+      "firstName": "sruthi",
+      "lastName": "g",
+      "email": "sruthi@gmail.com",
+      "password": "sree",
+      "confirmPassword": "sree",
+      "id": 4
+    },
+    {
+      "firstName": "saru",
+      "lastName": "m",
+      "email": "saru@gmail.com",
+      "password": "saru",
+      "confirmPassword": "saru",
+      "id": 5
+    },
+    {
+      "firstName": "saru",
+      "lastName": "m",
+      "email": "saru@gmail.com",
+      "password": "saru",
+      "confirmPassword": "saru",
+      "id": 6
+    }
+  ]
+}
